@@ -68,3 +68,5 @@ Membuat view agregat untuk menganalisis perilaku pengguna berdasarkan waktu, usi
 - **Bar Chart** → distribusi transaksi berdasarkan `age_group` atau `card_type_label`
 - **Pivot Table** → kombinasi `credit_score_group` dan `avg_amount`
 - **KPI Cards** → total transaksi, total amount, unique users
+
+Link dashboard Looker: https://lookerstudio.google.com/s/oEpPc7SRY74
